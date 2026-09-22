@@ -1,4 +1,3 @@
-```markdown
 # Movie Vault | React Discovery App
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,13 +52,7 @@ To run this project locally, you will need Node.js installed, as well as account
    git clone [https://github.com/Mo7ammed-Ja3far/Movie.git](https://github.com/Mo7ammed-Ja3far/Movie.git)
    cd Movie
 
-```
-
-2. **Install dependencies:**
-```bash
-npm install
-
-```
+ 
 
 
 3. **Set up Environment Variables:**
